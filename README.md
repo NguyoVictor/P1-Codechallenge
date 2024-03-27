@@ -1,15 +1,19 @@
-    P1-Codechallenge
-    Victor Nguyo
+Phase 1- Code Challenge- Week 1
+BY Victor Nguyo
 
-Description
-gradeGenerator.js=> A program that prompts a user for marks and outputs the grade
+Project Description
+1. Grade generator - A program that prompts a user for marks and outputs the grade
 
-speedDetector.js => A program that inputs the speed of a car and gives a point for every 5km/h above the required limit of 70km/h and if the points exceed 12 returns a license suspended messagw
 
-netSalary.js=> A program that prompts user for basic salary and benefits and calculates and returns the gross salary, PAYE tax, NHIF and NSSF tax
+
+2. Speed detector - A program that inputs the speed of a car and gives a point for every 5km/h above the required limit of 70km/h and if the points exceed 12 returns a license suspended messagw
+
+3. Net salary - A program that prompts user for basic salary and benefits and calculates and returns the gross salary, PAYE tax, NHIF and NSSF tax
+
+Project Set-up
 
 Installation
-You use git clone to be able to download the documents in the GitHub
+I will use git clone to be able to download the documents in the GitHub
 
 Installation Requirements
 Git
@@ -17,11 +21,11 @@ Git
 Installation instruction
 Git clone https://github.com/NguyoVictor/P1-Codechallenge
 
-Technologies used
-Github Javascript
+Author : Victor Nguyo.
 
-Support and contact details
-github.com/NguyoVictor
+Contact Information
+To get in touch E-MAIL me on victor.nguyo@student.moringaschool.com
 
 License
-The content of this site is licensed under Moringa School license Copyright (c) 2024.
+Moringa School License Copyright (c) 2024
+The source code for the lab is licensed under the Moringa School.

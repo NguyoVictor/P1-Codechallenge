@@ -11,7 +11,7 @@ function getStatus() {
   while (totalPoints <= demeritPoints) {
     let speed = prompt("Enter the speed: "); //prompts to input the speed
     if (speed <= limit) {
-      console.log("YOU ARE A BLESSING TO ROAD USERS");
+      console.log("Ok");
       condition = prompt("Proceed?");
       if (
         condition.toLowerCase() === "yes"
