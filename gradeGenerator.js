@@ -32,5 +32,5 @@ function studentGrade(marks) {
 }
 
 studentGrade(studMarks);
-console.log(marks);
+console.log(studMarks);
 
